@@ -10,3 +10,4 @@ update .env file with your mysql credentials
 FOR FRONTEND SETUP
 npm install -g @nestjs/cli
 nest --version
+cd ..
